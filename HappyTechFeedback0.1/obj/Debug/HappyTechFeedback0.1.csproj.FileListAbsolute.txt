@@ -1,0 +1,9 @@
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\bin\Debug\HappyTechFeedback.exe.config
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\bin\Debug\HappyTechFeedback.exe
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\bin\Debug\HappyTechFeedback.pdb
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\obj\Debug\HappyTechFeedback0.1.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\obj\Debug\HappyTechFeedback.Properties.Resources.resources
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\obj\Debug\HappyTechFeedback0.1.csproj.GenerateResource.Cache
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\obj\Debug\HappyTechFeedback.exe
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\obj\Debug\HappyTechFeedback.pdb
+C:\Users\Tomek\Source\Repos\Happy-Tech-Development\HappyTechFeedback0.1\HappyTechFeedback0.1\obj\Debug\HappyTechFeedback.Form1.resources
