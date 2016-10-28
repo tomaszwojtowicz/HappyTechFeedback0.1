@@ -22,10 +22,10 @@ namespace HappyTechFeedback
         internal List<Section> sectionList;
         //Section newSection;
         //static List<Section> staticSectionList;
-        static Template currentTemplate;
+        internal static Template currentTemplate;
 
         //setting up a dummy template
-        private static Template getDummyTemplate()
+        internal static Template getDummyTemplate()
         {
             //instantiate dummy template
             Template dummyTemplate = new Template();

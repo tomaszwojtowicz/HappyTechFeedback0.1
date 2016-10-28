@@ -2,10 +2,11 @@
 
 namespace HappyTechFeedback
 {
-    
+
     abstract class Section
     {
         private string title;
+        private string type;
 
 
         public virtual void AddCode()
@@ -23,6 +24,12 @@ namespace HappyTechFeedback
         {
             get { return this.title; }
             set { this.title = value; }
+        }
+
+        public string Type
+        {
+            get { return this.type; }
+            set { this.type = value; }
         }
     }
 }

@@ -5,6 +5,13 @@ namespace HappyTechFeedback
     class CommentBox : Section
     {
         private string content;
+        //private string type;
+
+        public CommentBox()
+        {
+            this.Type = "CommentBox";
+        }
+
 
         #region Properties
         public string Content

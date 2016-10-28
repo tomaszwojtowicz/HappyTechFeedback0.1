@@ -61,6 +61,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UIObjectFactory.cs" />
     <Compile Include="Code.cs" />
     <Compile Include="CommentBox.cs" />
     <Compile Include="ComplexSection.cs" />

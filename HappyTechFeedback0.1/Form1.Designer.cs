@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.headerGroupBox = new System.Windows.Forms.GroupBox();
-            this.templateEditGroupBox = new System.Windows.Forms.GroupBox();
+            this.templateEditGroupBox = new System.Windows.Forms.FlowLayoutPanel();
             this.SuspendLayout();
             // 
             // headerGroupBox
@@ -45,19 +45,20 @@
             // templateEditGroupBox
             // 
             this.templateEditGroupBox.AutoSize = true;
-            this.templateEditGroupBox.Location = new System.Drawing.Point(13, 119);
+            this.templateEditGroupBox.Location = new System.Drawing.Point(74, 119);
             this.templateEditGroupBox.Name = "templateEditGroupBox";
-            this.templateEditGroupBox.Size = new System.Drawing.Size(937, 554);
+            this.templateEditGroupBox.Size = new System.Drawing.Size(876, 90);
             this.templateEditGroupBox.TabIndex = 6;
             this.templateEditGroupBox.TabStop = false;
             this.templateEditGroupBox.Text = "templateEditinGroupBox";
+            this.templateEditGroupBox.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
-            this.ClientSize = new System.Drawing.Size(991, 873);
+            this.ClientSize = new System.Drawing.Size(991, 769);
             this.Controls.Add(this.templateEditGroupBox);
             this.Controls.Add(this.headerGroupBox);
             this.Name = "Form1";
@@ -70,7 +71,7 @@
         #endregion
 
         private System.Windows.Forms.GroupBox headerGroupBox;
-        private System.Windows.Forms.GroupBox templateEditGroupBox;
+        private System.Windows.Forms.FlowLayoutPanel templateEditGroupBox;
     }
 }
 
